@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
-unzip first node_modules into the same folder.s
+unzip first node_modules.zip into the same folder.
 
 In the project directory, you can run:
 
